@@ -42,28 +42,6 @@ The system was considered stable after the release.
 
 ---
 
-## Improvement Opportunities
-
-The following enhancements were identified for future releases:
-
-1. **Alerting Enhancements**
-   - Configure proactive CloudWatch alarms with notification actions
-   - Integrate alerts with email or incident management tools
-
-2. **Scaling Optimization**
-   - Introduce dynamic scaling policies based on traffic patterns
-   - Fine-tune scaling thresholds for better cost efficiency
-
-3. **Logging and Visibility**
-   - Enable detailed access logs on the Application Load Balancer
-   - Centralize application logs for easier troubleshooting
-
-4. **Release Automation**
-   - Automate pre-release and post-release validation checks
-   - Introduce deployment health dashboards for faster release sign-off
-
----
-
 ## Conclusion
 Post-release monitoring confirmed that the migration successfully improved
 system availability and resilience. The identified improvement areas provide
